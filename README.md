@@ -1,4 +1,4 @@
-## ![face](https://avatars3.githubusercontent.com/u/5675625?s=460&s=100&v=4) | Ilya Loshkarev
+## ![face](https://avatars3.githubusercontent.com/u/5675625?s=460&s=120&v=4) Ilya Loshkarev
 [github.com/xivol](http://github.com/xivol) \| [loshkarev.i@gmail.com](mailto:loshkarev.i@gmail.com)
 
 __Rostov-on-Don__
