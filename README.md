@@ -27,7 +27,7 @@ _09/2013 to current_
 
 __Institute of Mathematics, Mechanics and Computer Science \| Rostov-on-Don__
 
-Established Apple Mobile Development lab and introduced several courses for students from different learning tracks.
+Established Apple Mobile Development lab and introduced [several courses](https://xivol.github.io/MCS-V3-Mobile/) for students from different learning tracks.
 
 Introduced Moodle as a teaching tool for several courses. Reworked framework of assignments and evaluation methods.
 
